@@ -1,0 +1,1 @@
+A simple rock paper scissors game playable in the console, made using Javascript as part of The Odin Project.
