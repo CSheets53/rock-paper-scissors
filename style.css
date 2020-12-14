@@ -56,12 +56,11 @@ header {
 
 .score {
     display: flex;
-    margin-top: -5vh;
     justify-content: center;
 }
 
 footer {
-    margin-top: 10vh;
+    margin-top: 5vh;
     display: flex;
     justify-content: center;
     align-items: bottom;
